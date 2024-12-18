@@ -3,4 +3,4 @@ Os estudantes com Necessidades Educativas Especiais (NEE) frequentemente têm pr
 # Palavras-chave
 Sistema de Informação Geográfica; Geoprocessamento; Necessidades Educativas Especiais.
 # Link direto do acesso online ao mapa dinâmico
-https://bigrafinha.github.io/EstudantesNEE_RG_RS/
+Para acessar o mapa dinâmico <a href="https://bigrafinha.github.io/EstudantesNEE_RG_RS/">Clique aqui
