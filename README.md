@@ -5,3 +5,4 @@ Sistema de Informação Geográfica; Geoprocessamento; Necessidades Educativas E
 # Link direto do acesso online ao mapa dinâmico
 Para acessar o mapa dinâmico <a href="https://bigrafinha.github.io/EstudantesNEE_RG_RS/">Clique aqui
 # Link direto do acesso ao Trabalho de Conclusão de Curso (TCC)
+<a href="./TCC - Rafael Cruz (1).pdf" target="_blank">Visualizar o PDF</a>
